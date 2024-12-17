@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /img/
 
 sitemap:https://teodors03.github.io/veb-kopmunikacije/sitemap.xml
